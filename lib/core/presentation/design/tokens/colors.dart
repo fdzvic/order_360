@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 class CustomColors {
   final Color primaryColor = const Color(0xFF7147ed);
   final Color backgroundColor = const Color(0xFFF5F5F5);
-  final Color textColor = const Color(0xFF14120f);
+  final Color textColor = Colors.white;
   final Color cardColor = const Color(0xFFFFFFFF);
   final Color blackWhite = const Color(0xFFFFFFFF);
   final Color blackText = const Color(0xFF919191);
